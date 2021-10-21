@@ -1,4 +1,4 @@
-# Transparent Hole Hole on UIView
+# Transparent Hole on UIView
 
 ----
 
